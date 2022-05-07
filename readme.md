@@ -62,6 +62,6 @@
 [Гауссово размытие](https://ru.wikipedia.org/wiki/Размытие_по_Гауссу),
 параметр – `sigma`.
 
-#### Gaussian Blur (-bilateral sigma_r sigma_s)
+#### Bilateral filter (-bilateral sigma_r sigma_s)
 [Bilateral filter](https://en.wikipedia.org/wiki/Bilateral_filter),
 параметры – `sigma_r` и `sigma_s`.
