@@ -2,6 +2,8 @@
 
 Implementation of a console application that allows you to apply various filters to images in 24-bit [BMP](http://en.wikipedia.org/wiki/BMP_file_format) format, similar to the filters in popular graphics editors.
 
+*This .md page takes a while to load the example pictures from ./examples folder .*
+
 ## Format of command line arguments
 
 Description of the format of command line arguments:
@@ -30,7 +32,7 @@ In this example
 
 Our result here is following:
 
-![example](results/example.bmp)
+![example](examples/example.bmp)
 
 The filter list may be empty, then the image must be saved unchanged.
 Filters are applied in the order in which they are listed in the command line arguments.
